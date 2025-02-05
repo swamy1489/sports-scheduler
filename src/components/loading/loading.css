@@ -1,0 +1,18 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.parent {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+
+}
+
+.center{
+    text-align:center;
+    margin:auto;
+    padding-top:100px;
+}
+
